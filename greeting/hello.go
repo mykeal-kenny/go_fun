@@ -1,5 +1,8 @@
-package main
+package hello
 
-func main() {
-	println("hello")
-}
+
+import (
+	"fmt"
+)
+
+fmt.Println("Hello World")
